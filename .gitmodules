@@ -319,3 +319,6 @@
 [submodule "pi22-1/Ivlev-fa-np-practice"]
 	path = pi22-1/Ivlev-fa-np-practice
 	url = https://github.com/Ivlev2004/Ivlev-fa-np-practice
+[submodule "3_Parallelism"]
+	path = 3_Parallelism
+	url = https://github.com/fa-python-network/3_Parallelism
